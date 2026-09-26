@@ -1,0 +1,713 @@
+[{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cb6"
+  },
+  "roll": 1,
+  "name": "Anamika",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "Pandas"
+  ],
+  "projects_completed": 3,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cb7"
+  },
+  "roll": 2,
+  "name": "Kabir",
+  "course": "BCA DS AI",
+  "skills": [
+    "Node.js",
+    "Express"
+  ],
+  "projects_completed": 2,
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cb8"
+  },
+  "roll": 3,
+  "name": "Rohan",
+  "course": "BCA DS AI",
+  "skills": [
+    "Java",
+    "SQL"
+  ],
+  "projects_completed": 5,
+  "city": "Pune"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cb9"
+  },
+  "roll": 4,
+  "name": "Priya",
+  "course": "BCA DS AI",
+  "skills": [
+    "Scala",
+    "MongoDB"
+  ],
+  "projects_completed": 1,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cba"
+  },
+  "roll": 5,
+  "name": "Amit",
+  "course": "BCA",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "projects_completed": 4,
+  "city": "Noida"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cbb"
+  },
+  "roll": 6,
+  "name": "Sneha",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "Machine Learning"
+  ],
+  "projects_completed": 3,
+  "city": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cbc"
+  },
+  "roll": 7,
+  "name": "Rahul",
+  "course": "BCA",
+  "skills": [
+    "C++",
+    "Data Structures"
+  ],
+  "projects_completed": 2,
+  "city": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cbd"
+  },
+  "roll": 8,
+  "name": "Neha",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+  ],
+  "projects_completed": 6,
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cbe"
+  },
+  "roll": 9,
+  "name": "Vikram",
+  "course": "MCA",
+  "skills": [
+    "Java",
+    "Spring Boot"
+  ],
+  "projects_completed": 3,
+  "city": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cbf"
+  },
+  "roll": 10,
+  "name": "Aditi",
+  "course": "BCA DS AI",
+  "skills": [
+    "Node.js",
+    "MongoDB",
+    "React"
+  ],
+  "projects_completed": 5,
+  "city": "Gurgaon"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc0"
+  },
+  "roll": 11,
+  "name": "Karan",
+  "course": "BCA",
+  "skills": [
+    "PHP",
+    "MySQL"
+  ],
+  "projects_completed": 1,
+  "city": "Kanpur"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc1"
+  },
+  "roll": 12,
+  "name": "Meera",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "Seaborn",
+    "Pandas"
+  ],
+  "projects_completed": 4,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc2"
+  },
+  "roll": 13,
+  "name": "Dev",
+  "course": "MCA",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Linux"
+  ],
+  "projects_completed": 2,
+  "city": "Pune"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc3"
+  },
+  "roll": 14,
+  "name": "Isha",
+  "course": "BCA DS AI",
+  "skills": [
+    "JavaScript",
+    "Express",
+    "MongoDB"
+  ],
+  "projects_completed": 3,
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc4"
+  },
+  "roll": 15,
+  "name": "Arjun",
+  "course": "BCA",
+  "skills": [
+    "Java",
+    "Android Studio"
+  ],
+  "projects_completed": 4,
+  "city": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc5"
+  },
+  "roll": 16,
+  "name": "Tanya",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "TensorFlow"
+  ],
+  "projects_completed": 2,
+  "city": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc6"
+  },
+  "roll": 17,
+  "name": "Sahil",
+  "course": "MCA",
+  "skills": [
+    "C#",
+    ".NET"
+  ],
+  "projects_completed": 5,
+  "city": "Noida"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc7"
+  },
+  "roll": 18,
+  "name": "Pooja",
+  "course": "BCA DS AI",
+  "skills": [
+    "R",
+    "SQL",
+    "Excel"
+  ],
+  "projects_completed": 3,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc8"
+  },
+  "roll": 19,
+  "name": "Gaurav",
+  "course": "BCA",
+  "skills": [
+    "C",
+    "C++"
+  ],
+  "projects_completed": 1,
+  "city": "Jaipur"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cc9"
+  },
+  "roll": 20,
+  "name": "Kriti",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "Flask",
+    "SQL"
+  ],
+  "projects_completed": 4,
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cca"
+  },
+  "roll": 21,
+  "name": "Nitin",
+  "course": "MCA",
+  "skills": [
+    "Go",
+    "Kubernetes"
+  ],
+  "projects_completed": 3,
+  "city": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ccb"
+  },
+  "roll": 22,
+  "name": "Riya",
+  "course": "BCA DS AI",
+  "skills": [
+    "Scala",
+    "Spark"
+  ],
+  "projects_completed": 2,
+  "city": "Pune"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ccc"
+  },
+  "roll": 23,
+  "name": "Manish",
+  "course": "BCA",
+  "skills": [
+    "HTML",
+    "Bootstrap"
+  ],
+  "projects_completed": 1,
+  "city": "Kanpur"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ccd"
+  },
+  "roll": 24,
+  "name": "Sanya",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "Django"
+  ],
+  "projects_completed": 5,
+  "city": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cce"
+  },
+  "roll": 25,
+  "name": "Aakash",
+  "course": "MCA",
+  "skills": [
+    "Node.js",
+    "GraphQL"
+  ],
+  "projects_completed": 4,
+  "city": "Gurgaon"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ccf"
+  },
+  "roll": 26,
+  "name": "Simran",
+  "course": "BCA DS AI",
+  "skills": [
+    "Java",
+    "Hibernate"
+  ],
+  "projects_completed": 2,
+  "city": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd0"
+  },
+  "roll": 27,
+  "name": "Yash",
+  "course": "BCA",
+  "skills": [
+    "JavaScript",
+    "Vue.js"
+  ],
+  "projects_completed": 3,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd1"
+  },
+  "roll": 28,
+  "name": "Shruti",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "NLP"
+  ],
+  "projects_completed": 6,
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd2"
+  },
+  "roll": 29,
+  "name": "Tushar",
+  "course": "MCA",
+  "skills": [
+    "Ruby on Rails",
+    "PostgreSQL"
+  ],
+  "projects_completed": 2,
+  "city": "Pune"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd3"
+  },
+  "roll": 30,
+  "name": "Nidhi",
+  "course": "BCA DS AI",
+  "skills": [
+    "MongoDB",
+    "Express",
+    "Angular",
+    "Node.js"
+  ],
+  "projects_completed": 5,
+  "city": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd4"
+  },
+  "roll": 31,
+  "name": "Harsh",
+  "course": "BCA",
+  "skills": [
+    "C++",
+    "Qt"
+  ],
+  "projects_completed": 1,
+  "city": "Noida"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd5"
+  },
+  "roll": 32,
+  "name": "Mansi",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "PowerBI"
+  ],
+  "projects_completed": 4,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd6"
+  },
+  "roll": 33,
+  "name": "Prateek",
+  "course": "MCA",
+  "skills": [
+    "Java",
+    "Kotlin"
+  ],
+  "projects_completed": 3,
+  "city": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd7"
+  },
+  "roll": 34,
+  "name": "Aarti",
+  "course": "BCA DS AI",
+  "skills": [
+    "Data Science",
+    "NumPy"
+  ],
+  "projects_completed": 2,
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd8"
+  },
+  "roll": 35,
+  "name": "Varun",
+  "course": "BCA",
+  "skills": [
+    "PHP",
+    "Laravel"
+  ],
+  "projects_completed": 5,
+  "city": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cd9"
+  },
+  "roll": 36,
+  "name": "Kajal",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "Scikit-Learn"
+  ],
+  "projects_completed": 3,
+  "city": "Pune"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cda"
+  },
+  "roll": 37,
+  "name": "Saurabh",
+  "course": "MCA",
+  "skills": [
+    "Cybersecurity",
+    "Python"
+  ],
+  "projects_completed": 4,
+  "city": "Gurgaon"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cdb"
+  },
+  "roll": 38,
+  "name": "Divya",
+  "course": "BCA DS AI",
+  "skills": [
+    "SQL",
+    "NoSQL",
+    "MongoDB"
+  ],
+  "projects_completed": 2,
+  "city": "Jaipur"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cdc"
+  },
+  "roll": 39,
+  "name": "Ayush",
+  "course": "BCA",
+  "skills": [
+    "Swift",
+    "iOS"
+  ],
+  "projects_completed": 1,
+  "city": "Kanpur"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cdd"
+  },
+  "roll": 40,
+  "name": "Rakhi",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "FastAPI"
+  ],
+  "projects_completed": 5,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cde"
+  },
+  "roll": 41,
+  "name": "Chirag",
+  "course": "MCA",
+  "skills": [
+    "Rust",
+    "WebAssembly"
+  ],
+  "projects_completed": 3,
+  "city": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20cdf"
+  },
+  "roll": 42,
+  "name": "Adnan",
+  "course": "BCA DS AI",
+  "skills": [
+    "Python",
+    "Data Analysis",
+    "MongoDB"
+  ],
+  "projects_completed": 4,
+  "city": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce0"
+  },
+  "roll": 43,
+  "name": "Shweta",
+  "course": "BCA",
+  "skills": [
+    "UI/UX",
+    "Figma"
+  ],
+  "projects_completed": 2,
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce1"
+  },
+  "roll": 44,
+  "name": "Tarun",
+  "course": "BCA DS AI",
+  "skills": [
+    "Hadoop",
+    "Spark",
+    "Scala"
+  ],
+  "projects_completed": 6,
+  "city": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce2"
+  },
+  "roll": 45,
+  "name": "Roshni",
+  "course": "MCA",
+  "skills": [
+    "Azure",
+    "Python"
+  ],
+  "projects_completed": 3,
+  "city": "Pune"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce3"
+  },
+  "roll": 46,
+  "name": "Deepak",
+  "course": "BCA DS AI",
+  "skills": [
+    "React Native",
+    "Firebase"
+  ],
+  "projects_completed": 4,
+  "city": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce4"
+  },
+  "roll": 47,
+  "name": "Pallavi",
+  "course": "BCA",
+  "skills": [
+    "HTML",
+    "Tailwind CSS"
+  ],
+  "projects_completed": 1,
+  "city": "Noida"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce5"
+  },
+  "roll": 48,
+  "name": "Gautam",
+  "course": "BCA DS AI",
+  "skills": [
+    "C++",
+    "Blockchain"
+  ],
+  "projects_completed": 2,
+  "city": "Gurgaon"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce6"
+  },
+  "roll": 49,
+  "name": "Anjali",
+  "course": "MCA",
+  "skills": [
+    "Java",
+    "Microservices"
+  ],
+  "projects_completed": 5,
+  "city": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "6ab6931b51fcd5651bc20ce7"
+  },
+  "roll": 50,
+  "name": "Rishabh",
+  "course": "BCA DS AI",
+  "skills": [
+    "Node.js",
+    "Socket.io"
+  ],
+  "projects_completed": 3,
+  "city": "Lucknow"
+}]

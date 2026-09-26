@@ -1,0 +1,74 @@
+// 1. CREATE DATABASE
+use skillsync
+
+// 2. CREATE COLLECTION
+db.createCollection("students")
+
+// 3. INSERT MULTIPLE RECORDS (DATA INSERTION)
+// (Note: Replace the objects inside the array with your full 50-student dataset)
+db.students.insertMany([
+  {roll: 1, name: "Anamika", course: "BCA DS AI", skills: ["Python", "Pandas"], projects_completed: 3, city: "Lucknow"},
+  {roll: 2, name: "Kabir", course: "BCA DS AI", skills: ["Node.js", "Express"], projects_completed: 2, city: "Delhi"},
+  {roll: 3, name: "Rohan", course: "BCA DS AI", skills: ["Java", "SQL"], projects_completed: 5, city: "Pune"}
+  // ... add the remaining 47 records here
+])
+
+// 4. DISPLAY ALL RECORDS
+db.students.find({})
+
+// 5. SEARCH USING EQUAL TO ($eq) OPERATOR
+db.students.find({city: {$eq: "Lucknow"}})
+
+// 6. SEARCH USING GREATER THAN ($gt) OPERATOR
+db.students.find({projects_completed: {$gt: 4}})
+
+// 7. SEARCH USING LESS THAN ($lt) OPERATOR
+db.students.find({projects_completed: {$lt: 2}})
+
+// 8. SEARCH USING GREATER THAN OR EQUAL TO ($gte) OPERATOR
+db.students.find({projects_completed: {$gte: 5}})
+
+// 9. SEARCH USING LESS THAN OR EQUAL TO ($lte) OPERATOR
+db.students.find({projects_completed: {$lte: 3}})
+
+// 10. SEARCH WITHIN AN ARRAY
+db.students.find({skills: "Python"})
+
+// 11. SEARCH USING IN ($in) OPERATOR
+db.students.find({skills: {$in: ["Java", "C++"]}})
+
+// 12. SEARCH USING ALL ($all) OPERATOR
+db.students.find({skills: {$all: ["Node.js", "Express"]}})
+
+// 13. SEARCH USING LOGICAL AND ($and) OPERATOR
+db.students.find({$and: [{course: "BCA DS AI"}, {projects_completed: {$gt: 3}}]})
+
+// 14. SEARCH USING LOGICAL OR ($or) OPERATOR
+db.students.find({$or: [{city: "Pune"}, {city: "Bangalore"}]})
+
+// 15. UPDATE RECORD USING SET ($set) OPERATOR
+db.students.updateOne({roll: 1}, {$set: {city: "Noida"}})
+
+// 16. UPDATE RECORD USING INCREMENT ($inc) OPERATOR
+db.students.updateOne({roll: 2}, {$inc: {projects_completed: 1}})
+
+// 17. UPDATE ARRAY USING PUSH ($push) OPERATOR
+db.students.updateOne({roll: 3}, {$push: {skills: "React"}})
+
+// 18. UPDATE ARRAY USING PULL ($pull) OPERATOR
+db.students.updateOne({roll: 5}, {$pull: {skills: "HTML"}})
+
+// 19. DELETE A SINGLE RECORD
+db.students.deleteOne({roll: 4})
+
+// 20. DELETE MULTIPLE RECORDS
+db.students.deleteMany({projects_completed: 0})
+
+// 21. SORT DATA IN ASCENDING ORDER
+db.students.find().sort({name: 1})
+
+// 22. SORT DATA IN DESCENDING ORDER
+db.students.find().sort({projects_completed: -1})
+
+// 23. LIMIT QUERY RESULTS
+db.students.find().limit(5)
